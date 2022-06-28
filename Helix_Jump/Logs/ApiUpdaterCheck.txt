@@ -1,0 +1,60 @@
+[api-updater (non-obsolete-error-filter)] 25.07.2021 22:05:21 : Starting /Volumes/SAMSUNG/Applications/Unity/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 871,746ms
+moved types parse time: 111ms
+candidates parse time : 51ms
+C# parse time         : 544ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25.07.2021 22:28:26 : Starting /Volumes/SAMSUNG/Applications/Unity/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 663,961ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 530ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25.07.2021 22:28:46 : Starting /Volumes/SAMSUNG/Applications/Unity/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69,838ms
+moved types parse time: 70ms
+candidates parse time : 2ms
+C# parse time         : 281ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 26.07.2021 18:24:12 : Starting /Volumes/SAMSUNG/Applications/Unity/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 786,262ms
+moved types parse time: 147ms
+candidates parse time : 44ms
+C# parse time         : 534ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 26.07.2021 18:28:32 : Starting /Volumes/SAMSUNG/Applications/Unity/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 773,038ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 538ms
+candidates check time : 87ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 26.07.2021 18:31:43 : Starting /Volumes/SAMSUNG/Applications/Unity/2020.3.14f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 137,886ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 363ms
+candidates check time : 35ms
+console write time    : 0ms
+
